@@ -50,6 +50,7 @@ class MainActivity : AppCompatActivity() {
                     binding.textView.text = contador.toString()
                 } catch (e: NumberFormatException) {
                     binding.editTextNumero.text.clear()
+                    contador = 0
                     binding.textView.text = "0"
                 }
 
