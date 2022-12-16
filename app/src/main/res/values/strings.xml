@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MultimediaListeners</string>
+    <string name="Restar">-</string>
+    <string name="Sumar">+</string>
+    <string name="Numero">0</string>
+    <string name="pon_numero">Pon un número</string>
+    <string name="Numejemplo">0</string>
+</resources>
